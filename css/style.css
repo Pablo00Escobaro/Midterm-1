@@ -1,0 +1,22 @@
+*{
+   font-family: "Roboto", sans-serif; 
+}
+header{
+    height: 91px;
+    width: 1349px;
+}
+.litLogo{
+    position: absolute;
+    top: 37px;
+    left: 40px;
+}
+.texts{
+    font-size: 16px;
+    position: absolute;
+    top: 37px;
+    right: 110px;
+    color: black;
+}
+a{
+    padding: 20px;
+}

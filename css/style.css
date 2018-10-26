@@ -15,8 +15,30 @@ header{
     position: absolute;
     top: 37px;
     right: 110px;
-    color: black;
+
 }
 a{
+    height: 91px;
     padding: 20px;
+    text-decoration: none;
+        color: black;
 }
+.te1{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #2BE6AB;
+    color: #641FB1;
+}
+.te2:hover{
+    color: #641FB1;
+}
+.te3:hover{
+    color: #641FB1;
+}
+.te4:hover{
+    color: #641FB1;
+}
+.te5:hover{
+    color: #641FB1;
+}
+
